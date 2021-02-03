@@ -10,8 +10,8 @@ return array;
 
   
 function johnLennonFacts(array) {
-var n = ["He hated the sound of his own voice", "He was never a vegetarian" ];
-while (n < array.n) {
+var n = [0];
+while (n < array.length) {
 array[n] = array[n] + "!!!";
  n++;
 }
