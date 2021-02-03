@@ -19,6 +19,6 @@ return array;}
 function iLoveTheBeatles (number){
   var n = []
   var i = o 
-  do {n.push"I love the Beatles!"];
-} while ([condition]);
-}
+  do {
+    n.push('I love the Beatles!');
+    i++;
