@@ -20,4 +20,6 @@ function iLoveTheBeatles (number){
   var n = []
   var i = o 
   do {
+  [loopBody];
+} while ([condition]);
 }
