@@ -18,7 +18,8 @@ return array;}
 
 function iLoveTheBeatles (number){
   var n = []
-  var i = o 
+  var i = 0 
   do {
     n.push('I love the Beatles!');
-    i++;
+    i++;}
+    
